@@ -1,2 +1,3 @@
-# specification
-specification
+npm install
+gulp
+
